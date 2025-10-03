@@ -5,7 +5,7 @@ This repository contains the guide and resources needed to build a homemade rain
 ## 📘 Guide
 
 The complete workshop guide is available here:  
-[📄 RAIN_GAUGE_WORKSHOP_2025.pdf](guide/RAIN_GAUGE_WORKSHOP_2025.pdf)
+[📄 RAIN_GAUGE_WORKSHOP_2025.pdf](guide/TALLER PLUVIOMETRO 2025.pdf)
 
 ## 🛠️ Materials needed
 
