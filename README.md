@@ -5,7 +5,7 @@ This repository contains the guide and resources needed to build a homemade rain
 ## 📘 Guide
 
 The complete workshop guide is available here:  
-[📄 RAIN_GAUGE_WORKSHOP_2025.pdf](guide/TALLER PLUVIOMETRO 2025.pdf)
+[📄 TALLER PLUVIOMETRO 2025.pdf](guide/TALLER%20PLUVIOMETRO%202025.pdf)
 
 ## 🛠️ Materials needed
 
@@ -13,7 +13,7 @@ The complete workshop guide is available here:
 - Scissors or cutter
 - 30 cm ruler
 - Transparent tape
-- Printed graduated ruler (included in `/resources/ruler.pdf`)
+- Printed graduated ruler (available in [`/resources/regla.pdf`](resources/regla.pdf))
 - Graduated syringe (minimum 20 ml)
 
 ## ⚙️ Assembly instructions
